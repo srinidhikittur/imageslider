@@ -242,7 +242,7 @@ a:hover{
 }
     .carasoul .imgs .photos{
     width: 140px;
-    height: 180px;
+    height: 150px;
     position: absolute;
     top: 80%;
     transform: translateY(-70%);
